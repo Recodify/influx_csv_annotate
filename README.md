@@ -4,7 +4,7 @@ Annotate a simple CSV (with headers) for influx import.
 
 ## Notes
 
-Currently for a fix csv file (known headers), will updated to handle any csv in a subsequent version.
+Currently for a fixed csv file (known headers), will updated to handle any csv in a subsequent version.
 
 
 ## Versions

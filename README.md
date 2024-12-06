@@ -27,7 +27,7 @@ cargo build --release
 
 ## Perf
 
-On a 147.8mb file contain 1105586 data rows.
+On a 147.8mb file containing 1105586 data rows.
 
 #### Python v3.8.10
 

@@ -11,19 +11,20 @@ Currently for a fix csv file (known headers), will updated to handle any csv in 
 
 #### Node.js
 
-npm i
-cd ./src
-code transform.js
+- npm i
+- cd ./src
+- node transform.js
 
 
 #### Python (3.0!)
 
-python transform.py
+- cd ./src
+- python transform.py
 
 #### Rust
 
-cargo build --release
-./target/release/transform
+- cargo build --release
+- ./target/release/transform
 
 ## Perf
 

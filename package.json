@@ -1,0 +1,15 @@
+{
+  "name": "influx",
+  "version": "1.0.0",
+  "main": "transform.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "luxon": "^3.5.0",
+    "papaparse": "^5.4.1"
+  }
+}

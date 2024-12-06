@@ -31,24 +31,24 @@ On a 147.8mb file contain 1105586 data rows.
 
 #### Python v3.8.10
 
-`real    2m3.236s`
-`user    2m2.463s`
-`sys     0m1.137s`
+- `real    2m3.236s`
+- `user    2m2.463s`
+- `sys     0m1.137s`
 
 Why so slow?
 
 #### Node.js v20.18.0
 
-`real    0m7.700s`
-`user    0m9.627s`
-`sys     0m1.190s`
+- `real    0m7.700s`
+- `user    0m9.627s`
+- `sys     0m1.190s`
 
 decent...
 
 #### Rust v1.83.0
 
-`real    0m1.948s`
-`user    0m3.917s`
-`sys     0m1.703s`
+- `real    0m1.948s`
+- `user    0m3.917s`
+- `sys     0m1.703s`
 
 ...go Rust!
